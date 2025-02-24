@@ -43,7 +43,7 @@ This project proudly follows and maintains the [Semantic Conventions](https://gi
 
 - 🔑 **API Keys and Secrets Management**: Securely handle your API keys and secrets centrally, avoiding insecure practices.
 
-- 🎮 **Experiemnt with different LLMs**: Use OpenGround to explore, test and compare various LLMs side by side.
+- 🎮 **Experiment with different LLMs**: Use OpenGround to explore, test and compare various LLMs side by side.
 
 ## 🚀 Getting Started with LLM Observability
 
